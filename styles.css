@@ -39,3 +39,18 @@ body {
     background-color: #ddd;
     color: black;
 }
+.game-category {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.game-category img {
+    width: 120px;
+    height: 68px;
+    border: 1px solid #555;
+}
+
+.game-category p {
+    margin-top: 5px;
+    font-size: 14px;
+}
